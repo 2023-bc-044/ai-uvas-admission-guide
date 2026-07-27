@@ -2,7 +2,7 @@
 
 An intelligent, easy-to-use web app that helps students get **instant, accurate answers** about UVAS (University of Veterinary and Animal Sciences) Lahore admissions — without digging through the official website.
 
-**🌐 Live App:** [https://your-vercel-url.vercel.app]([https://your-vercel-url.vercel.app](https://ai-uvas-admission-guide.vercel.app))
+**🌐 Live App:** [https://ai-uvas-admission-guide.vercel.app](https://ai-uvas-admission-guide.vercel.app)
 
 ---
 
