@@ -1,6 +1,6 @@
 # AI UVAS Admission Guide
 
-An intelligent, easy-to-use web app that helps students get **instant, accurate answers** about UVAS (University of Veterinary and Animal Sciences) Lahore admissions — without digging through the official website.
+An intelligent, easy‑to‑use web app that helps students get **instant, accurate answers** about UVAS (University of Veterinary and Animal Sciences) Lahore admissions — without digging through the official website.
 
 **🌐 Live App:** [https://ai-uvas-admission-guide.vercel.app](https://ai-uvas-admission-guide.vercel.app)
 
@@ -23,7 +23,7 @@ This app centralises **verified UVAS admission information** and lets students a
 
 ## ✨ Features
 
-- **💬 AI Admission Chat** – Ask any admission-related question; the AI answers only from official UVAS data.
+- **💬 AI Admission Chat** – Ask any admission‑related question; the AI answers only from official UVAS data.
 - **📋 Program Finder** – Search or browse programmes by name, campus, or eligibility.
 - **✅ Eligibility Checker** – Quickly see which programmes match your academic background.
 - **📄 Document Checklist** – A tickable list of all required admission documents.
@@ -61,18 +61,14 @@ The AI also politely declines any non‑admission questions (jokes, coding, gene
 
 ## 📸 Screenshots
 
-*(Take clear screenshots of your app and upload them to your GitHub repository, then link them here. Use relative links if the images are in the repo.)*
-
 1. **Homepage** – Hero section and navigation  
-   ![Homepage](./screenshots/homepage.png)
+   ![Homepage](./homepage.png)
 
 2. **AI Chat** – Asking about eligibility  
-   ![Chatbot](./screenshots/chat.png)
+   ![Chatbot](./chatbot.png)
 
 3. **Program Finder** – Searching for programmes  
-   ![Program Finder](./screenshots/programs.png)
-
-> 💡 Tip: Create a `screenshots` folder in your repo, upload your images there, and use the path as shown.
+   ![Program Finder](./programs.png)
 
 ---
 
@@ -80,6 +76,5 @@ The AI also politely declines any non‑admission questions (jokes, coding, gene
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/YOUR_GITHUB_USERNAME/ai-uvas-admission-guide.git
+   git clone https://github.com/2023-bc-044/ai-uvas-admission-guide.git
    cd ai-uvas-admission-guide
-   
